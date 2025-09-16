@@ -22,7 +22,7 @@
   <header>
     <img src="profile.jpg" alt="프로필 사진">
     <h1>이주희</h1>
-    <p>소통을 잘하는 마케터 이주희입니다.</p>
+    <p>소통을 잘하는 마케터 이주희입니다.I'm Juhee Lee, a marketer who excels at communication.</p>
     <p><strong>직무:</strong> Marketing | <strong>전공:</strong> Law, International Exchange</p>
   </header>
 
