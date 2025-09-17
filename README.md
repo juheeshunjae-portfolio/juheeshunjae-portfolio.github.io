@@ -18,8 +18,7 @@
 
   <!-- 홈 -->
   <header>
-    <img src=" ![250430 이주희님 반명함](https://github.com/user-attachments/assets/4546713c-cc2c-4ada-9d22-87db9c6123ae)
-" alt="프로필 사진">
+   <img src="profile.jpg" alt="프로필 사진">
     <h1>이주희 | Juhee Lee</h1>
     <h2>소통을 잘하는 마케터 이주희입니다.<br>I'm Juhee Lee, a marketer who excels at communication.</h2>
     <p><strong>직무:</strong> 마케팅 (Marketing)</p>
