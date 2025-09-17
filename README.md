@@ -8,7 +8,14 @@
   <style>
     body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
     header { background: #0a3d62; color: white; padding: 60px 20px; text-align: center; }
-    header img { width: 150px; height: 150px; border-radius: 50%; margin-bottom: 20px; }
+    header img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;   /* 원형으로 만들기 */
+      object-fit: cover;    /* 원 안에 꽉 차게 채우기 */
+      margin-bottom: 20px;
+    }
+
     section { padding: 40px 20px; max-width: 900px; margin: auto; }
     h2 { color: #0a3d62; margin-bottom: 20px; }
     .project, .skill { border: 1px solid #ddd; padding: 20px; margin: 20px 0; border-radius: 8px; }
