@@ -46,7 +46,7 @@
   
     <div class="project">
       <details>
-        <summary><h3>독일 장애인 복지 탐구 프로그램</h3></summary>
+        <summary><span class="summary-title">독일 장애인 복지 탐구 프로그램</span></summary>
         <p>2024년 여름, 독일에서 장애인 복지 제도를 연구하고 현지 기관을 탐방했습니다.  
            다양한 문화적 차이를 배우고, 복지정책에 대한 이해를 넓혔습니다.</p>
       </details>
@@ -54,7 +54,7 @@
 
     <div class="project">
       <details>
-        <summary><h3>태국 교육 봉사</h3></summary>
+        <summary><span class="summary-title">태국 교육 봉사</span></summary>
         <p>2024년 여름, 초중학생 대상 봉사활동을 진행하며 교육적 교류 경험을 쌓았습니다.  
            약 300시간 이상의 봉사 경험을 통해 소통과 협업 능력을 강화했습니다.</p>
       </details>
@@ -62,7 +62,7 @@
 
     <div class="project">
       <details>
-        <summary><h3>독일 인턴십</h3></summary>
+        <summary><span class="summary-title">독일 인턴십</span></summary>
         <p>국제 교류와 다양성을 주제로 한 독일 인턴십에 참여하며 글로벌 협업 경험을 축적했습니다.</p>
       </details>
     </div>
