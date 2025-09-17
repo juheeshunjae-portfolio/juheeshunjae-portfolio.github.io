@@ -10,8 +10,8 @@
     header img {
       width: 150px;
       height: 150px;
-      border-radius: 50%;   /* 원형으로 만들기 */
-      object-fit: cover;    /* 원 안에 꽉 차게 채우기 */
+      border-radius: 50%;
+      object-fit: cover;
       margin-bottom: 20px;
     }
     section { padding: 40px 20px; max-width: 900px; margin: auto; }
@@ -19,13 +19,12 @@
     .project, .skill { border: 1px solid #ddd; padding: 20px; margin: 20px 0; border-radius: 8px; }
     .contact { color: #0a3d62; }
     footer { background: #0a3d62; color: white; text-align: center; padding: 20px; margin-top: 40px; }
-    /* 여기에 추가 */
     details summary {
       cursor: pointer;
       list-style: none;
     }
     details summary::-webkit-details-marker {
-      display: none; /* 기본 삼각형 없애기 */
+      display: none;
     }
     details summary::before {
       content: "▶";
@@ -41,17 +40,9 @@
       font-weight: bold;
       color: #0a3d62;
     }
-    /* 네비게이션 링크 방지 */
-    a[href^="#"] {
-      pointer-events: none;
-      cursor: default;
-      text-decoration: none;
-      color: inherit;
-    }
   </style>
 </head>
 <body>
-  <!-- 홈 -->
   <header>
     <img src="profile.jpg.jpg" alt="프로필 사진">
     <h1>Juhee Lee / 이주희</h1>
@@ -59,14 +50,12 @@
     <p><strong>직무:</strong> Marketing | <strong>전공:</strong> Law, International Exchange</p>
   </header>
   
-  <!-- 소개 - id 속성 제거 -->
   <section>
     <h2>About Me</h2>
     <p>안녕하세요! 저는 숙명여대 법학과 학생으로, 
       독일 인턴 경험과 해외봉사 경험을 바탕으로 글로벌 마케터로 성장하고 싶습니다.</p>
   </section>
   
-  <!-- 프로젝트 - id 속성 제거 -->
   <section>
     <h2>Projects</h2>
     <div class="project">
@@ -91,7 +80,6 @@
     </div>
   </section>
   
-  <!-- 스킬 - id 속성 제거 -->
   <section>
     <h2>Skills</h2>
     <div class="skill">
@@ -101,13 +89,11 @@
     </div>
   </section>
   
-  <!-- 이력서 - 링크를 일반 텍스트로 변경 -->
   <section>
     <h2>Resume</h2>
     <p>📄 이력서 다운로드 (resume.pdf)</p>
   </section>
   
-  <!-- 연락처 - 링크를 일반 텍스트로 변경 -->
   <section class="contact">
     <h2>Contact</h2>
     <p>Email: juhee@example.com</p>
