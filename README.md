@@ -21,8 +21,36 @@
     .project, .skill { border: 1px solid #ddd; padding: 20px; margin: 20px 0; border-radius: 8px; }
     .contact a { color: #0a3d62; text-decoration: none; }
     footer { background: #0a3d62; color: white; text-align: center; padding: 20px; margin-top: 40px; }
+
+    /* 여기에 추가 */
+    details summary {
+      cursor: pointer;
+      list-style: none;
+    }
+
+    details summary::-webkit-details-marker {
+      display: none; /* 기본 삼각형 없애기 */
+    }
+
+    details summary::before {
+      content: "▶";
+      font-size: 0.9em;
+      margin-right: 6px;
+      color: #0a3d62;
+    }
+
+    details[open] summary::before {
+      content: "▼";
+    }
+
+    .summary-title {
+      font-size: 1.1em;
+      font-weight: bold;
+      color: #0a3d62;
+    }
   </style>
 </head>
+
 <body>
 
   <!-- 홈 -->
