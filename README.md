@@ -22,7 +22,7 @@
     <h1>이주희 | Juhee Lee</h1>
     <h2>소통을 잘하는 마케터 이주희입니다.<br>I'm Juhee Lee, a marketer who excels at communication.</h2>
     <p><strong>직무:</strong> 마케팅 (Marketing)</p>
-    <p><strong>전공:</strong> 법학 (Law)</p>
+    <p><strong>전공:</strong> Law 법학 </p>
   </header>
 
 </body>
