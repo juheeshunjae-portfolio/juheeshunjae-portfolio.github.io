@@ -7,13 +7,11 @@
   <title>이주희 포트폴리오</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
-    header { background: #0a3d62; color: white; padding: 60px 20px; text-align: center; }
+    header { background: #dfffd6; color: #333; padding: 60px 20px; text-align: center; }
     header img { width: 150px; height: 150px; border-radius: 50%; margin-bottom: 20px; }
-    section { padding: 40px 20px; max-width: 900px; margin: auto; }
-    h2 { color: #0a3d62; margin-bottom: 20px; }
-    .project, .skill { border: 1px solid #ddd; padding: 20px; margin: 20px 0; border-radius: 8px; }
-    .contact a { color: #0a3d62; text-decoration: none; }
-    footer { background: #0a3d62; color: white; text-align: center; padding: 20px; margin-top: 40px; }
+    h1 { margin: 10px 0 5px; }
+    h2 { margin: 5px 0 20px; font-weight: normal; }
+    p { margin: 5px 0; }
   </style>
 </head>
 <body>
@@ -21,10 +19,14 @@
   <!-- 홈 -->
   <header>
     <img src="profile.jpg" alt="프로필 사진">
-    <h1>이주희</h1>
-    <p>소통을 잘하는 마케터 이주희입니다.I'm Juhee Lee, a marketer who excels at communication.</p>
-    <p><strong>직무:</strong> Marketing | <strong>전공:</strong> Law, International Exchange</p>
+    <h1>이주희 | Juhee Lee</h1>
+    <h2>소통을 잘하는 마케터 이주희입니다.<br>I'm Juhee Lee, a marketer who excels at communication.</h2>
+    <p><strong>직무:</strong> 마케팅 (Marketing)</p>
+    <p><strong>전공:</strong> 법학 (Law)</p>
   </header>
+
+</body>
+</html>
 
   <!-- 소개 -->
   <section>
