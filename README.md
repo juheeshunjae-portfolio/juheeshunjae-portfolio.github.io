@@ -20,7 +20,7 @@
 
   <!-- 홈 -->
   <header>
-    <img src="profile.jpg" alt="프로필 사진">
+    <img src="profile.jpg.jpg" alt="프로필 사진">
     <h1> Juhee Lee / 이주희</h1>
     <p>소통을 잘하는 마케터 이주희입니다.</p>
     <p><strong>직무:</strong> Marketing | <strong>전공:</strong> Law, International Exchange</p>
