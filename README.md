@@ -21,7 +21,7 @@
   <!-- 홈 -->
   <header>
     <img src="profile.jpg" alt="프로필 사진">
-    <h1>이주희</h1>
+    <h1> Juhee Lee / 이주희</h1>
     <p>소통을 잘하는 마케터 이주희입니다.</p>
     <p><strong>직무:</strong> Marketing | <strong>전공:</strong> Law, International Exchange</p>
   </header>
@@ -29,8 +29,8 @@
   <!-- 소개 -->
   <section>
     <h2>About Me</h2>
-    <p>안녕하세요! 저는 숙명여대 법학과 학생으로, 독일과 국제교류에 관심이 많습니다.  
-       다양한 해외 경험과 소통 능력을 바탕으로 글로벌 마케터로 성장하고 싶습니다.</p>
+    <p>안녕하세요! 저는 숙명여대 법학과 학생으로, 
+      독일 인턴 경험과 해외봉사 경험을 바탕으로 글로벌 마케터로 성장하고 싶습니다.</p>
   </section>
 
   <!-- 프로젝트 -->
@@ -56,7 +56,7 @@
   <section>
     <h2>Skills</h2>
     <div class="skill">
-      <p><strong>언어:</strong> 한국어 (모국어), 영어 (중급), 독일어 (기초), 태국어 (기초)</p>
+      <p><strong>언어:</strong> 한국어 (모국어), 영어 (중상급), 독일어 (기초), 중국어 (기초) </p>
       <p><strong>기술:</strong> HTML, CSS, Python(기초)</p>
       <p><strong>소프트 스킬:</strong> 커뮤니케이션, 팀워크, 문제 해결</p>
     </div>
