@@ -8,9 +8,9 @@
     body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
     header { background: #0a3d62; color: white; padding: 60px 20px; text-align: center; }
     header img {
-      width: 150px;
+      width: 200px;
       height: 150px;
-      border-radius: 50%;
+      border-radius: 0;
       object-fit: cover;
       margin-bottom: 20px;
     }
