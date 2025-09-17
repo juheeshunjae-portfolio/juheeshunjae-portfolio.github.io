@@ -1,4 +1,4 @@
-# juheeshunjae-portfolio.github.io
+# juheelee-portfolio.github.io
 <!DOCTYPE html>
 <html lang="ko">
 <head>
